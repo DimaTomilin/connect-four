@@ -1,0 +1,24 @@
+{
+  "name": "connect-four",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimaTomilin/connect-four.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimaTomilin/connect-four/issues"
+  },
+  "homepage": "https://github.com/DimaTomilin/connect-four#readme",
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "prettier-airbnb-config": "^1.0.0"
+  }
+}
