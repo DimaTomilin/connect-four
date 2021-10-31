@@ -20,4 +20,4 @@ Connect Four (also known as Four Up, Plot Four, Find Four, Captain's Mistress, F
 
 If you have some questions or proposotion how to improve my project you can leave comment in GitHub or send me to my Email.
 ALso if you want to restart game you have special button for this.
-Good luck ang make fun!
+Good luck ang have fun!
